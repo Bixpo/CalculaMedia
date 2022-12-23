@@ -1,0 +1,8 @@
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe.config
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.pdb
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.AssemblyReference.cache
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.CoreCompileInputs.cache
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.exe
+C:\Users\TI2\Desktop\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.pdb
